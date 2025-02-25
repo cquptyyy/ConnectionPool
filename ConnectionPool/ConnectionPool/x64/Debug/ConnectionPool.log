@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\MyLocalRepository\github\ConnectionPoolProject\ConnectionPool\ConnectionPool\main.cpp(9,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\MyLocalRepository\github\ConnectionPoolProject\ConnectionPool\ConnectionPool\main.cpp(18,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ConnectionPool.vcxproj -> D:\MyLocalRepository\github\ConnectionPoolProject\ConnectionPool\x64\Debug\ConnectionPool.exe
